@@ -1,0 +1,6 @@
+{
+  "name": "Smash & Bun - Craft Burgers & Fast Food",
+  "description": "Order gourmet smash burgers, loaded parmesan truffle fries, and hand-spun shakes with real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
